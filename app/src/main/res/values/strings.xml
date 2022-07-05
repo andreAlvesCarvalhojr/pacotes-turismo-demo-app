@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name" translatable="false">Alura Viagens</string>
+    <string name="Title">Especiais</string>
+    <string name="subTitle">Brasil</string>
+
+    <string name="Banner_inicial">Banner inicial dos pacotes</string>
+    <string name="Banner_pacotes">Banner pacotes</string>
+    <string name="imagem_do_pacote">Imagem do Pacote</string>
+    <string name="sao_paulo_text">São Paulo</string>
+    <string name="numero_de_dias_text">2 Dias</string>
+    <string name="data_text">08/12 – 10/12 de 2017</string>
+    <string name="preco_final_text">Preco Final:</string>
+    <string name="preco_text">R$200.99</string>
+    <string name="realizar_pagamento_botao">Realizar Pagamento</string>
+
+    <string name="pagamento_mascara_nome_no_cartao">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ\u0020</string>
+    <string name="pagamento_orientacao">Digite as informações do cartao de credito que você deseja usar para o pagamento</string>
+    <string name="pagamento_valor_da_compra">Valor da compra:</string>
+    <string name="pagamento_numero_do_cartao">Numero do Cartão</string>
+    <string name="pagamento_mes_cartao">MM</string>
+    <string name="pagamento_ano_cartao">AA</string>
+    <string name="pagamento_cvc_pagamento">CVC</string>
+    <string name="pagamento_nome_no_cartao">Nome no Cartão</string>
+    <string name="pagamento_finalizar_compra">Finalizar Compra</string>
+    <string name="pagamento_preco_da_compra">R$ 420,50</string>
+
+    <string name="resumo_compra_parabens">Parabéns!</string>
+    <string name="resumo_compra_compra_realizada">Compra realizada com sucesso :)</string>
+    <string name="resumo_compra_confira_resumo">Confira o resumo da Compra:</string>
+    <string name="resumo_compra_local">São Paulo</string>
+    <string name="resumo_compra_data">08/12 - 10/12 de 2017</string>
+    <string name="resumo_compra_preco">R$ 241,99</string>
+
+
+</resources>
